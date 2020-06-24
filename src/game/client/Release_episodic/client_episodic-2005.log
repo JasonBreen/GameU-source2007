@@ -1,0 +1,21 @@
+﻿Build started 6/24/2020 6:42:36 PM.
+     1>Project "C:\GameU\src\game\client\client_episodic-2005.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating ".\Release_episodic\Client Episodic.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         client_episodic-2005.vcxproj -> C:\GameU\src\game\client\.\Release_episodic\client.dll
+       CustomBuildStep:
+       Skipping target "CustomBuildStep" because all output files are up-to-date with respect to the input files.
+       FinalizeBuildStatus:
+         Deleting file ".\Release_episodic\Client Episodic.unsuccessfulbuild".
+         Touching ".\Release_episodic\Client Episodic.lastbuildstate".
+     1>Done Building Project "C:\GameU\src\game\client\client_episodic-2005.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.77
